@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ggarc\\source\\repos\\WebApplication19\\WebApplication19.csproj": {}
+    "c:\\Users\\ggarc\\source\\repos\\WebApplication19\\WebApplication19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ggarc\\source\\repos\\WebApplication19\\WebApplication19.csproj": {
+    "c:\\Users\\ggarc\\source\\repos\\WebApplication19\\WebApplication19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ggarc\\source\\repos\\WebApplication19\\WebApplication19.csproj",
+        "projectUniqueName": "c:\\Users\\ggarc\\source\\repos\\WebApplication19\\WebApplication19.csproj",
         "projectName": "WebApplication19",
-        "projectPath": "C:\\Users\\ggarc\\source\\repos\\WebApplication19\\WebApplication19.csproj",
+        "projectPath": "c:\\Users\\ggarc\\source\\repos\\WebApplication19\\WebApplication19.csproj",
         "packagesPath": "C:\\Users\\ggarc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ggarc\\source\\repos\\WebApplication19\\obj\\",
+        "outputPath": "c:\\Users\\ggarc\\source\\repos\\WebApplication19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ggarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
